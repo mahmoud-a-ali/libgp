@@ -5,7 +5,7 @@
  *      Author: Joao Cunha <joao.cunha@ua.pt>
  */
 
-#include "cg.h"
+#include "libgp/include/cg.h"
 
 #include <iostream>
 

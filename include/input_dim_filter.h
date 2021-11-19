@@ -5,7 +5,7 @@
 #ifndef __COV_INPUT_DIM_FILTER__
 #define __COV_INPUT_DIM_FILTER__
 
-#include "cov.h"
+#include "libgp/include/cov.h"
 
 namespace libgp
 {

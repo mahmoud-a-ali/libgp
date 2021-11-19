@@ -2,8 +2,8 @@
 // Copyright (c) 2013, Manuel Blum <mblum@informatik.uni-freiburg.de>
 // All rights reserved.
 
-#include "gp.h"
-#include "cov_factory.h"
+#include "libgp/include/gp.h"
+#include "libgp/include/cov_factory.h"
 
 #include <iostream>
 #include <fstream>

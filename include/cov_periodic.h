@@ -5,7 +5,7 @@
 #ifndef __COV_PERIODIC_H__
 #define __COV_PERIODIC_H__
 
-#include "cov.h"
+#include "libgp/include/cov.h"
 
 namespace libgp
 {

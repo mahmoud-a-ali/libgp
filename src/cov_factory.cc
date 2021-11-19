@@ -5,21 +5,21 @@
 #include <string>
 #include <cassert>
 
-#include "cov_factory.h"
+#include "libgp/include/cov_factory.h"
 
-#include "cov_noise.h"
-#include "cov_linear_ard.h"
-#include "cov_linear_one.h"
-#include "cov_se_ard.h"
-#include "cov_se_iso.h"
-#include "cov_matern3_iso.h"
-#include "cov_matern5_iso.h"
-#include "cov_rq_iso.h"
-#include "cov_sum.h"
-#include "cov_prod.h"
-#include "cov_periodic_matern3_iso.h"
-#include "cov_periodic.h"
-#include "input_dim_filter.h"
+#include "libgp/include/cov_noise.h"
+#include "libgp/include/cov_linear_ard.h"
+#include "libgp/include/cov_linear_one.h"
+#include "libgp/include/cov_se_ard.h"
+#include "libgp/include/cov_se_iso.h"
+#include "libgp/include/cov_matern3_iso.h"
+#include "libgp/include/cov_matern5_iso.h"
+#include "libgp/include/cov_rq_iso.h"
+#include "libgp/include/cov_sum.h"
+#include "libgp/include/cov_prod.h"
+#include "libgp/include/cov_periodic_matern3_iso.h"
+#include "libgp/include/cov_periodic.h"
+#include "libgp/include/input_dim_filter.h"
 
 namespace libgp {
   

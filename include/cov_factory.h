@@ -10,7 +10,7 @@
 #include <vector>
 #include <map>
 
-#include "cov.h"
+#include "libgp/include/cov.h"
 
 namespace libgp {
   

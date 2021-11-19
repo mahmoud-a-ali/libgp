@@ -2,7 +2,7 @@
 // Copyright (c) 2013, Manuel Blum <mblum@informatik.uni-freiburg.de>
 // All rights reserved.
 
-#include "sampleset.h"
+#include "libgp/include/sampleset.h"
 #include <Eigen/StdVector>
 
 namespace libgp {

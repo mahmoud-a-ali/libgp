@@ -2,7 +2,7 @@
 // Copyright (c) 2013, Manuel Blum <mblum@informatik.uni-freiburg.de>
 // All rights reserved.
 
-#include "cov_matern5_iso.h"
+#include "libgp/include/cov_matern5_iso.h"
 #include <cmath>
 
 namespace libgp

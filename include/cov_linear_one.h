@@ -5,7 +5,7 @@
 #ifndef __COV_LINEAR_ONE__
 #define __COV_LINEAR_ONE__
 
-#include "cov.h"
+#include "libgp/include/cov.h"
 
 namespace libgp
 {

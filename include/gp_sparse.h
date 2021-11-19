@@ -8,7 +8,7 @@
 #include <Eigen/Sparse>
 #include <Eigen/SparseCholesky>
 
-#include "gp.h"
+#include "libgp/include/gp.h"
 
 namespace libgp {
   

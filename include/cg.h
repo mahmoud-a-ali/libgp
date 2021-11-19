@@ -8,7 +8,7 @@
 #ifndef CG_H_
 #define CG_H_
 
-#include "gp.h"
+#include "libgp/include/gp.h"
 
 namespace libgp
 {

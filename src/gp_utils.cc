@@ -2,7 +2,7 @@
 // Copyright (c) 2013, Manuel Blum <mblum@informatik.uni-freiburg.de>
 // All rights reserved.
 
-#include "gp_utils.h"
+#include "libgp/include/gp_utils.h"
 
 namespace libgp {
   

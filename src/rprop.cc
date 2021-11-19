@@ -6,8 +6,8 @@
 #include <cmath>
 #include <iostream>
 
-#include "rprop.h"
-#include "gp_utils.h"
+#include "libgp/include/rprop.h"
+#include "libgp/include/gp_utils.h"
 
 namespace libgp {
 

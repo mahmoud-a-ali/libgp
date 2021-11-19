@@ -2,7 +2,7 @@
 // Copyright (c) 2013, Manuel Blum <mblum@informatik.uni-freiburg.de>
 // All rights reserved.
 
-#include "cov_sum.h"
+#include "libgp/include/cov_sum.h"
 #include "cmath"
 
 namespace libgp

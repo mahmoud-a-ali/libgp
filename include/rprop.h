@@ -5,7 +5,7 @@
 #ifndef __RPROP_H__
 #define __RPROP_H__
 
-#include "gp.h"
+#include "libgp/include/gp.h"
 #include <Eigen/Core>
 
 namespace libgp {

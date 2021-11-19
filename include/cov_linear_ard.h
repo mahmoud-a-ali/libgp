@@ -5,7 +5,7 @@
 #ifndef __COV_LINEAR_ARD_H__
 #define __COV_LINEAR_ARD_H__
 
-#include "cov.h"
+#include "libgp/include/cov.h"
 
 namespace libgp
 {

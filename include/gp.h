@@ -18,8 +18,8 @@
 #include <cmath>
 #include <Eigen/Dense>
 
-#include "cov.h"
-#include "sampleset.h"
+#include "libgp/include/cov.h"
+#include "libgp/include/sampleset.h"
 
 namespace libgp {
   

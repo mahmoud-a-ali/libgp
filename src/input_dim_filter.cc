@@ -2,7 +2,7 @@
 // Copyright (c) 2013, Manuel Blum <mblum@informatik.uni-freiburg.de>
 // All rights reserved.
 
-#include "input_dim_filter.h"
+#include "libgp/include/input_dim_filter.h"
 #include <cmath>
 #include <cassert>
 
